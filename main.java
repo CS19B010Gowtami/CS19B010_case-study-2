@@ -1,3 +1,6 @@
+import java.util.*;
+import java.util.ArrayList;
+import java.util.Scanner;
 public class CS19B010 
 {
 	public static void main(String[] args) 
