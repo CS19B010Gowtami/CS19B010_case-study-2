@@ -7,7 +7,7 @@ public class CS19B010
 	{
 		boolean isvalid=false;
         Scanner sc = new Scanner(System.in);
-	    MyClass obj=new MyClass();//object of MyClass
+	    MyMenu obj=new MyMenu();//object of MyClass
 	    Authentication aut=new Authentication();
 	    int yn = 0;
 	    keypad keypad1=new keypad();
