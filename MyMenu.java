@@ -53,7 +53,7 @@ class MyMenu extends outerprinter
 			  outerprinter.DisplayDoubleMessagelninred(balance);
 			  outerprinter.DisplayMessageln("(in rupees)");
 		    }
-    		else if(t==2)
+    		   else if(t==2)
 		    {
     			WithDrawal wd=new WithDrawal();
   			    wd.withdrawing();
@@ -66,5 +66,5 @@ class MyMenu extends outerprinter
           }   
          }
        }
-  	 }
+   }
 }
